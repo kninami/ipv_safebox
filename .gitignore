@@ -1,0 +1,8 @@
+*.zip
+*.log
+*.pycache
+.env
+downloaded_files/*
+downloaded_files/
+venv/
+.DS_Store
