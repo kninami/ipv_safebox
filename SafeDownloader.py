@@ -7,7 +7,6 @@ from datetime import datetime
 import shutil
 from zipfile import ZipFile
     
-
 dotenv.load_dotenv()
 
 class SafeDownloader:
